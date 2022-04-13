@@ -1,4 +1,4 @@
-## Oiii eu sou o Renan Ricardo, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou o Renan Ricardo, criador de conteúdo de tecnologia!
 <div align="center">
   <a href="https://github.com/renanricardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,6 +25,6 @@
   <a href = "mailto:renanrrmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renanricardoo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renanricardo/renanricardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
